@@ -1,4 +1,4 @@
-const { qbrt, qube } = require('../main');
+const { qbrt, qube } = require('../1.8');
 
 
 test('qbrt x', () => {

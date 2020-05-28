@@ -1,4 +1,4 @@
-const count_change = require('../main');
+const count_change = require('../1.2.2');
 
 
 test('count change n', () => {

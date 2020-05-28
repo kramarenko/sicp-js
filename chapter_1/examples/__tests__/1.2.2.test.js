@@ -1,4 +1,4 @@
-const fib = require('../main');
+const fib = require('../1.2.2');
 
 
 test('fib n', () => {

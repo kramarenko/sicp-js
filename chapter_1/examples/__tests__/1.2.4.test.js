@@ -1,4 +1,4 @@
-const exp = require('../main');
+const exp = require('../1.2.4');
 
 test('exp b n', () => {
   expect(exp(5, 2)).toBe(25);

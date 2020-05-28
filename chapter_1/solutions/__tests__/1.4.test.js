@@ -1,4 +1,4 @@
-const a_plus_abs_b = require('../main');
+const a_plus_abs_b = require('../1.4');
 
 
 test('a plus abs b', () => {

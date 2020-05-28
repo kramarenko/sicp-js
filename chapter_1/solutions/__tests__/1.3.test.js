@@ -1,4 +1,4 @@
-const { sumOfBiggestSquares, sumOfBiggestSquares2 } = require('../main');
+const { sumOfBiggestSquares, sumOfBiggestSquares2 } = require('../1.3');
 
 
 test('sum of biggest squares', () => {
